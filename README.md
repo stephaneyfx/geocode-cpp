@@ -115,6 +115,8 @@ Help is available by running:
 }
 ```
 
+If the location could not be found, the error kind is `LocationNotFound`.
+
 # Supported platforms
 
 Tested on Windows 10 and ArchLinux.
