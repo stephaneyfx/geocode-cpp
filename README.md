@@ -1,4 +1,4 @@
-**A similar service was implemented in Rust and is much easier to build:** [Geocode in Rust](https://github.com/stephaneyfx/geocode-rs.git)
+**A similar service was implemented in Rust and is much easier to build:** [Geocode in Rust](https://github.com/stephaneyfx/geocode-rs)
 
 # Purpose
 
